@@ -1,4 +1,4 @@
-library 'jenkinsfile-shared-library@latest'
+library 'jenkinsfile-shared-library@develop'
 
 /* definimos la variable config que se trata de un yaml que
 leemos directamente del fichero, aqui se pueden definir
